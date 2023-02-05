@@ -7,6 +7,7 @@ Expect to participate in bug bounty contests this year.
 # CTFs
 * Check the main or training branch for my resolutions
 # Secureum RACEs
+https://opensea.io/0xF93D41E72F7B2b66E864979E2D28f4c124Befb56/collected
 * RACE-11 :
     - Score: 6.2
     - Position: 34 (out of 106 runners)
@@ -19,6 +20,7 @@ Expect to participate in bug bounty contests this year.
 * RACE-14 :
     - Score: 7.0
     - Position: 4 (out of 172 runners)
+    - I didn't provide an address for this one.
 
 # Usernames (sorry, it might be disturbing)
 * Willboy
