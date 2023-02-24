@@ -22,6 +22,8 @@ https://opensea.io/0xF93D41E72F7B2b66E864979E2D28f4c124Befb56/collected
     - Position: 4 (out of 172 runners)
     - I didn't provide an address for this one.
 
+# Reports
+* https://github.com/GuardianAudits/SolidityLabAudits/blob/main/raisin/Raisin_Audit_Team2.pdf
 # Usernames (sorry, it might be disturbing)
 * Willboy
 * gp_20
