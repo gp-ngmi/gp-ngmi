@@ -24,6 +24,7 @@ https://opensea.io/0xF93D41E72F7B2b66E864979E2D28f4c124Befb56/collected
 
 # Reports
 * https://github.com/GuardianAudits/SolidityLabAudits/blob/main/raisin/Raisin_Audit_Team2.pdf
+* https://github.com/GuardianAudits/SolidityLabAudits/blob/main/poodl/PoodlAuditTeam2.md
 # Usernames (sorry, it might be disturbing)
 * Willboy
 * gp_20
