@@ -1,6 +1,5 @@
-Hello 👻
-I am looking for part time roles(freelancing/contract) in smart contract security. Most of my free time, I learn about security/MEV/DeFi.
-Expect to participate in bug bounty contests this year.
+Most of my free time, I learn about security/MEV/DeFi.
+
 # Blog
 * https://medium.com/@gp_20
 
@@ -12,6 +11,7 @@ Expect to participate in bug bounty contests this year.
 * https://github.com/GuardianAudits/SolidityLabAudits/blob/main/raisin/Raisin_Audit_Team2.pdf
 * https://github.com/GuardianAudits/SolidityLabAudits/blob/main/poodl/PoodlAuditTeam2.md
 * https://hackmd.io/@Willboy/rylFJnh0s
+
 # Usernames (sorry, it might be disturbing)
 * Willboy
 * gp_20
@@ -43,5 +43,14 @@ https://opensea.io/0xF93D41E72F7B2b66E864979E2D28f4c124Befb56/collected
 * RACE-16 :
     - Score: 3.7
     - Position: 49 (out of 205 runners)
+* RACE-20 :
+    - Score: 5.2
+    - Position: 6 (out of 202 runners)
+* RACE-24 :
+    - Score: 7.8
+    - Position: 19 (out of 137 runners)    
+* RACE-25 :
+    - Score: 6.2
+    - Position: 46 (out of 146 runners)
 
 
