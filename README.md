@@ -11,6 +11,8 @@ Most of my free time, I learn about security/MEV/DeFi.
 * https://github.com/GuardianAudits/SolidityLabAudits/blob/main/raisin/Raisin_Audit_Team2.pdf
 * https://github.com/GuardianAudits/SolidityLabAudits/blob/main/poodl/PoodlAuditTeam2.md
 * https://hackmd.io/@Willboy/rylFJnh0s
+* follow up review with [Amphor](https://defivaults.gitbook.io/amphor/smart-contracts-audit)
+* Block VI [yAcademy](https://yacademy.dev/members/) (willboy)
 
 # Usernames (sorry, it might be disturbing)
 * Willboy
@@ -52,5 +54,8 @@ https://opensea.io/0xF93D41E72F7B2b66E864979E2D28f4c124Befb56/collected
 * RACE-25 :
     - Score: 6.2
     - Position: 46 (out of 146 runners)
+* RACE-28 :
+    - Score: 6.0
+    - Position: 14 (out of 135 runners)
 
 
