@@ -1,31 +1,43 @@
+## Description
 Most of my free time, I learn about security/MEV/DeFi.
 
-# Blog
-* https://medium.com/@gp_20
+## Get contact
+* Discord - willboy#6023 / _willboy
+* Telegram - [glove_20](https://t.me/glove_20)
+* Gmail - github.fp4i7@simplelogin.com
 
-# CTFs
+
+# Portfolio
+
+## Projects
+* Follow [UniswapV3 Book](https://uniswapv3book.com/) - [concentratedLiquidity101](https://github.com/gp-ngmi/concentratedLiquidity101)
+* [Medium Blog](https://medium.com/@gp_20)
+
+
+## Smart contract security reviews
+* Block VI [yAcademy](https://yacademy.dev/members/) (willboy) - [yAudit Report - 1upYFI](https://reports.yaudit.dev/reports/03-2024-1upYFI/)
+* Follow up review with [Amphor](https://defivaults.gitbook.io/amphor/smart-contracts-audit)
+* Private review with HopperLabs
+* [GuardianAudits - •Raisin_Audit_Team2](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/raisin/Raisin_Audit_Team2.pdf)
+* [GuardianAudits - •PoodlAuditTeam2](https://github.com/GuardianAudits/SolidityLabAudits/blob/main/poodl/PoodlAuditTeam2.md)
+* [KS-PI2](https://hackmd.io/@Willboy/rylFJnh0s)
+
+## Secureum - workshops
+* CAREXtaker TrailofBits-Medusa-July23
+* CAREXtaker-Hexens-Dec23
+* CAREXtaker RV Apr'24
+
+## Usernames (sorry, it might be disturbing)
+* Willboy
+* gp_20
+* bretzel
+
+## CTFs
 * Check the main or training branch for my resolutions
 
 
-# Reports
-* https://github.com/GuardianAudits/SolidityLabAudits/blob/main/raisin/Raisin_Audit_Team2.pdf
-* https://github.com/GuardianAudits/SolidityLabAudits/blob/main/poodl/PoodlAuditTeam2.md
-* https://hackmd.io/@Willboy/rylFJnh0s
-* follow up review with [Amphor](https://defivaults.gitbook.io/amphor/smart-contracts-audit)
-* Block VI [yAcademy](https://yacademy.dev/members/) (willboy)
-
-# Usernames (sorry, it might be disturbing)
-* Willboy
-* gp_20
-* ...
-
-# Get contact
-* Discord - willboy#6023
-* Telegram - https://t.me/glove_20
-* Gmail - github.fp4i7@simplelogin.com
-
-# Secureum RACEs
-https://opensea.io/0xF93D41E72F7B2b66E864979E2D28f4c124Befb56/collected
+## Secureum RACEs
+[Address](https://opensea.io/0xF93D41E72F7B2b66E864979E2D28f4c124Befb56/collected)
 * RACE-11 :
     - Score: 6.2
     - Position: 34 (out of 106 runners)
