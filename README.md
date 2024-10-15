@@ -3,7 +3,7 @@
 Smart Contract Security Researcher | Exploring MEV • DeFi
 
 #### Links:
-- [Portfolio](https://bretzel.blog/portfolio)
-- [Researches](https://bretzel.blog/research)
-- [Articles](https://bretzel.blog/articles)
-- [Contact](https://bretzel.blog)
+- [Portfolio](https://bretzel.on-fleek.app/portfolio)
+- [Researches](https://bretzel.on-fleek.app/research)
+- [Articles](https://bretzel.on-fleek.app/articles)
+- [Contact](https://bretzel.on-fleek.app)
