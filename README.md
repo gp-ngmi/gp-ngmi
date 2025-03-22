@@ -1,9 +1,13 @@
-**gp-ngmi alias bretzel** <br>
+**gp-ngmi alias bretzel** | Smart Contract Security Researcher | Exploring MEV • DeFi
 
-Smart Contract Security Researcher | Exploring MEV • DeFi
+------
 
-#### Links:
-- [Portfolio](https://bretzel.blog/portfolio)
-- [Researches](https://bretzel.blog/research)
-- [Articles](https://bretzel.blog/articles)
-- [Contact](https://bretzel.blog)
+
+
+ **[👻 Portfolio](https://bretzel.blog/portfolio)**
+ 
+ **[🔬 Research](https://bretzel.blog/research)**
+ 
+ **[📝 Articles](https://bretzel.blog/articles)**
+ 
+ **[📞 Contact](https://bretzel.blog)**
