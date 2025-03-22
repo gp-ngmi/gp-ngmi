@@ -1,4 +1,4 @@
-**gp-ngmi alias bretzel** | Smart Contract Security Researcher | Exploring MEV • DeFi
+**bretzel alias gp-ngmi | willboy | gp_20** 
 
 ------
 
